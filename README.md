@@ -4,7 +4,7 @@ IssueFlow is a backend application built with **Spring Boot** and **Spring Data 
 
 ## Project Status
 
-- Under Development
+- Under Development    
 
 Current focus:
 - Layered architecture

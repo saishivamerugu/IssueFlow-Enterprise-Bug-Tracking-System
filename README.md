@@ -1,6 +1,6 @@
 # IssueFlow - Enterprise Bug Tracking System 
 
-IssueFlow is a backend application built with **Spring Boot** and **Spring Data JPA** to manage software projects, issues, sprints, comments, labels, and users in a Jira-like workflow. T
+IssueFlow is a backend application built with **Spring Boot** and **Spring Data JPA** to manage software projects, issues, sprints, comments, labels, and users in a Jira-like workflow.
 
 ## Project Status
 
